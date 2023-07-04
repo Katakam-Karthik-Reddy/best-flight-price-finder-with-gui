@@ -9,30 +9,17 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from threading import *
 
-#importing methods from other files
 from airportCodes import loadAirports, getAirportCode
-#easemytrip - done
 from easymytrip import getEasyMyTripFlights
-#cleartrip - done
 from cleartrip import getClearTripFlights
-#makemytrip - done
 from makemytrip import getMakeMyTripFlights
-#ixigo - done
 from ixigo import getIxigoflights
 
 
 
-# taking user input from and to place
-
-#fromplace = input("Enter your boarding location :" )
-#toplace = input("Enter your destination location:" )
 fromplace = 'bangalore'
 toplace = 'delhi'
 
-# This is to convert city to codes
-#loadAirports()
-#fromplacecode = getAirportCode(fromplace)
-#toplacecode = getAirportCode(toplace)
 flights1 =[]
 T1 = Thread(target= getEasyMyTripFlights, args=(fromplace, toplace, flights1,))
 T1.start()
