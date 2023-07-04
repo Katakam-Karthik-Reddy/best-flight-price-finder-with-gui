@@ -1,0 +1,206 @@
+,name,starttime,endtime,flightduration,totalstops,price
+0,flight data for easymytrip,,,,,
+1,AirAsia,20:00,06:55,10h 55m,1-stop,"5,985"
+2,AirAsia,19:25,23:35,04h 10m,1-stop,"6,420"
+3,SpiceJet,21:55,00:40,02h 45m,non-stop,"7,181"
+4,GO FIRST,23:05,01:40,02h 35m,non-stop,"7,753"
+5,Air India,21:10,00:05,02h 55m,non-stop,"7,183"
+6,SpiceJet,18:30,21:15,02h 45m,non-stop,"7,707"
+7,Air India,17:40,05:50,12h 10m,1-stop,"7,298"
+8,Air India,17:40,08:40,15h 00m,1-stop,"7,298"
+9,Air India,17:40,11:10,17h 30m,1-stop,"7,298"
+10,Air India,17:40,18:25,24h 45m,1-stop,"7,298"
+11,Air India,17:40,20:25,26h 45m,1-stop,"7,298"
+12,Indigo,20:40,01:35,04h 55m,1-stop,"7,485"
+13,Indigo,22:55,01:40,02h 45m,non-stop,"7,498"
+14,Indigo,21:45,00:35,02h 50m,non-stop,"7,498"
+15,Indigo,15:30,18:30,03h 00m,non-stop,"7,498"
+16,Air India,17:40,14:00,20h 20m,1-stop,"7,519"
+17,AkasaAir,21:20,23:55,02h 35m,non-stop,"7,226"
+18,GO FIRST,16:15,07:45,15h 30m,1-stop,"8,579"
+19,Air India,22:30,05:50,07h 20m,1-stop,"7,981"
+20,Air India,22:30,08:40,10h 10m,1-stop,"7,981"
+21,Air India,22:30,11:10,12h 40m,1-stop,"7,981"
+22,Air India,22:30,18:25,19h 55m,1-stop,"7,981"
+23,Air India,22:30,20:25,21h 55m,1-stop,"7,981"
+24,Air India,22:30,14:00,15h 30m,1-stop,"8,201"
+25,AirAsia,22:55,01:35,02h 40m,non-stop,"8,234"
+26,Indigo,17:25,20:00,02h 35m,non-stop,"8,439"
+27,Indigo,18:55,21:50,02h 55m,non-stop,"8,439"
+28,Air India,20:00,05:50,09h 50m,1-stop,"8,873"
+29,Air India,20:00,08:40,12h 40m,1-stop,"8,873"
+30,Air India,20:00,11:10,15h 10m,1-stop,"8,873"
+31,Air India,20:00,18:25,22h 25m,1-stop,"8,873"
+32,Air India,20:00,20:25,24h 25m,1-stop,"8,873"
+33,Indigo,19:50,01:00,05h 10m,1-stop,"8,968"
+34,Air India,21:30,11:25,13h 55m,1-stop,"9,020"
+35,AirAsia,22:10,03:20,05h 10m,1-stop,"9,041"
+36,Air India,20:00,14:00,18h 00m,1-stop,"9,094"
+37,GO FIRST,18:50,07:45,12h 55m,1-stop,"10,108"
+38,Indigo,21:25,04:30,07h 05m,1-stop,"9,351"
+39,SpiceJet,16:40,23:50,07h 10m,1-stop,"10,064"
+40,Vistara,20:50,23:20,02h 30m,non-stop,"9,503"
+41,Air India,16:15,12:20,20h 05m,1-stop,"9,913"
+42,Indigo,22:55,04:30,05h 35m,1-stop,"9,696"
+43,Indigo,21:25,02:15,04h 50m,1-stop,"9,771"
+44,Air India,20:40,12:20,15h 40m,1-stop,"9,913"
+45,Indigo,22:55,05:55,07h 00m,1-stop,"10,116"
+46,Air India,21:15,05:50,08h 35m,1-stop,"10,238"
+47,Air India,19:10,05:50,10h 40m,1-stop,"10,238"
+48,Air India,21:15,08:40,11h 25m,1-stop,"10,238"
+49,Air India,19:10,08:40,13h 30m,1-stop,"10,238"
+50,Air India,21:15,11:10,13h 55m,1-stop,"10,238"
+51,Air India,19:10,11:10,16h 00m,1-stop,"10,238"
+52,Air India,15:35,18:35,03h 00m,non-stop,"10,333"
+53,Air India,19:15,22:35,03h 20m,non-stop,"10,333"
+54,Indigo,18:50,01:00,06h 10m,1-stop,"10,438"
+55,Air India,21:15,14:00,16h 45m,1-stop,"10,459"
+56,Air India,19:10,14:00,18h 50m,1-stop,"10,459"
+57,AirAsia,19:05,21:25,02h 20m,non-stop,"10,710"
+58,Indigo,18:50,23:55,05h 05m,1-stop,"11,068"
+59,Indigo,17:15,01:00,07h 45m,1-stop,"11,488"
+60,GO FIRST,23:40,07:45,08h 05m,1-stop,"12,732"
+61,Indigo,17:15,22:10,04h 55m,1-stop,"11,987"
+62,Indigo,17:15,23:55,06h 40m,1-stop,"12,118"
+63,Indigo,15:20,22:45,07h 25m,1-stop,"12,463"
+64,Air India,16:15,05:50,13h 35m,1-stop,"12,464"
+65,Vistara,19:50,22:40,02h 50m,non-stop,"13,126"
+66,Air India,17:00,11:25,18h 25m,1-stop,"13,430"
+67,Air India,16:15,05:50,13h 35m,1-stop,"13,766"
+68,Vistara,14:10,16:45,02h 35m,non-stop,"15,751"
+69,Vistara,16:05,18:45,02h 40m,non-stop,"15,803"
+70,Vistara,17:40,20:30,02h 50m,non-stop,"15,803"
+71,AirAsia,22:10,07:00,08h 50m,1-stop,"18,177"
+72,Air India,17:15,20:15,03h 00m,non-stop,"18,344"
+73,AirAsia,16:25,22:05,05h 40m,1-stop,"18,941"
+74,AirAsia,15:00,22:35,07h 35m,1-stop,"19,767"
+75,AirAsia,15:00,00:05,09h 05m,1-stop,"19,767"
+76,Vistara,18:40,15:55,21h 15m,1-stop,"20,029"
+77,Air India,16:00,05:50,13h 50m,2+-stop,"20,056"
+78,AirAsia,20:45,03:20,06h 35m,1-stop,"21,078"
+79,Vistara,20:40,07:45,11h 05m,1-stop,"23,773"
+80,Vistara,20:40,08:50,12h 10m,1-stop,"23,773"
+81,Vistara,20:40,17:45,21h 05m,1-stop,"23,773"
+82,Vistara,20:40,19:15,22h 35m,1-stop,"23,773"
+83,Vistara,19:45,07:45,12h 00m,1-stop,"23,825"
+84,Vistara,21:30,07:45,10h 15m,1-stop,"23,878"
+85,Vistara,21:30,17:45,20h 15m,1-stop,"23,878"
+86,Vistara,21:30,19:15,21h 45m,1-stop,"23,878"
+87,Vistara,21:20,08:50,11h 30m,2+-stop,"23,951"
+88,AirAsia,14:45,20:55,06h 10m,1-stop,"24,511"
+89,Vistara,20:35,07:15,10h 40m,1-stop,"25,027"
+90,Vistara,20:35,09:55,13h 20m,1-stop,"25,027"
+91,Vistara,15:30,20:55,05h 25m,1-stop,"27,973"
+92,Vistara,16:55,23:15,06h 20m,1-stop,"27,973"
+93,Vistara,15:30,23:15,07h 45m,1-stop,"27,973"
+94,Vistara,20:40,10:50,14h 10m,1-stop,"27,973"
+95,Vistara,16:55,07:45,14h 50m,1-stop,"27,973"
+96,Vistara,16:55,08:50,15h 55m,1-stop,"27,973"
+97,Vistara,15:30,07:45,16h 15m,1-stop,"27,973"
+98,Vistara,15:30,08:50,17h 20m,1-stop,"27,973"
+99,Vistara,19:45,08:50,13h 05m,1-stop,"28,025"
+100,Vistara,19:45,10:50,15h 05m,1-stop,"28,025"
+101,Vistara,19:45,17:45,22h 00m,1-stop,"28,025"
+102,Vistara,19:45,19:15,23h 30m,1-stop,"28,025"
+103,Vistara,17:50,23:15,05h 25m,1-stop,"28,078"
+104,Vistara,21:30,08:50,11h 20m,1-stop,"28,078"
+105,Vistara,21:30,10:50,13h 20m,1-stop,"28,078"
+106,Vistara,17:50,07:45,13h 55m,1-stop,"28,078"
+107,Vistara,17:50,08:50,15h 00m,1-stop,"28,078"
+108,Vistara,17:50,10:50,17h 00m,1-stop,"28,078"
+109,Vistara,17:35,07:15,13h 40m,1-stop,"30,067"
+110,Vistara,17:35,09:55,16h 20m,1-stop,"30,067"
+111,AirAsia,20:45,07:00,10h 15m,1-stop,"30,212"
+112,Vistara,14:20,19:15,04h 55m,1-stop,"33,433"
+113,Vistara,14:20,20:55,06h 35m,1-stop,"33,433"
+114,Vistara,14:20,23:15,08h 55m,1-stop,"33,433"
+115,Vistara,16:55,10:50,17h 55m,1-stop,"33,433"
+116,Vistara,19:00,07:45,12h 45m,1-stop,"33,485"
+117,Vistara,19:00,08:50,13h 50m,1-stop,"33,485"
+118,Vistara,19:00,17:45,22h 45m,1-stop,"33,485"
+119,Vistara,19:00,19:15,24h 15m,1-stop,"33,485"
+120,Vistara,14:45,21:40,06h 55m,1-stop,"35,947"
+121,Vistara,14:45,07:15,16h 30m,1-stop,"35,947"
+122,Vistara,17:05,18:20,25h 15m,1-stop,"38,772"
+123,Vistara,19:00,10:50,15h 50m,1-stop,"39,785"
+124,flight data for ixigo,,,,,
+125,INDIGO,22:55,01:40,2hr 45min,non-stop,5341
+126,AIRASIA INDIA,22:55,01:35,2hr 40min,non-stop,5921
+127,AIRASIA INDIA,22:10,03:20,5hr 10min,1 stop,5985
+128,AIRASIA INDIA,20:45,03:20,6hr 35min,1 stop,5985
+129,INDIGO,08:10,13:00,4hr 50min,1 stop,5986
+130,INDIGO,13:30,19:05,5hr 35min,1 stop,5986
+131,AIRASIA INDIA,19:25,23:35,4hr 10min,1 stop,6000
+132,INDIGO,20:20,23:05,2hr 45min,non-stop,6006
+133,INDIGO,01:55,06:45,4hr 50min,1 stop,6051
+134,AIR INDIA,05:50,12:20,6hr 30min,1 stop,6364
+135,AIR INDIA,17:00,11:25,18hr 25min,1 stop,6464
+136,INDIGO,01:55,08:25,6hr 30min,1 stop,6608
+137,INDIGO,15:05,20:35,5hr 30min,1 stop,6612
+138,INDIGO,13:30,18:10,4hr 40min,1 stop,6735
+139,INDIGO,04:55,10:20,5hr 25min,1 stop,6735
+140,AIRASIA INDIA,05:00,12:45,7hr 45min,1 stop,6735
+141,INDIGO,22:55,01:40,2hr 45min,non-stop,5341
+142,INDIGO,05:50,08:35,2hr 45min,non-stop,6763
+143,INDIGO,09:20,12:15,2hr 55min,non-stop,6763
+144,SPICEJET,16:40,23:50,7hr 10min,1 stop,6862
+145,AIR INDIA,11:05,11:25,24hr 20min,1 stop,6884
+146,AIR INDIA,09:30,11:25,25hr 55min,1 stop,6884
+147,AKASA AIR,11:40,14:25,2hr 45min,non-stop,6976
+148,INDIGO,07:05,09:50,2hr 45min,non-stop,7078
+149,INDIGO,11:45,14:40,2hr 55min,non-stop,7078
+150,INDIGO,10:40,13:35,2hr 55min,non-stop,7078
+151,INDIGO,15:30,18:30,3hr,non-stop,7078
+152,GO FIRST,20:25,23:00,2hr 35min,non-stop,7152
+153,GO FIRST,05:45,08:20,2hr 35min,non-stop,7152
+154,AIR INDIA,21:10,00:05,2hr 55min,non-stop,7183
+155,AIR INDIA,03:30,06:25,2hr 55min,non-stop,7183
+156,AIR INDIA,15:35,18:35,3hr,non-stop,7183
+157,INDIGO,22:55,01:40,2hr 45min,non-stop,5341
+158,AIR INDIA,10:00,18:25,8hr 25min,1 stop,7217
+159,AIR INDIA,09:00,18:25,9hr 25min,1 stop,7217
+160,AIR INDIA,07:00,18:25,11hr 25min,1 stop,7217
+161,AIR INDIA,09:00,20:25,11hr 25min,1 stop,7217
+162,AIRASIA INDIA,07:50,10:40,2hr 50min,non-stop,7225
+163,AKASA AIR,21:20,23:55,2hr 35min,non-stop,7226
+164,SPICEJET,11:45,23:50,12hr 5min,1 stop,7271
+165,AIR INDIA,14:00,20:25,6hr 25min,1 stop,7298
+166,AIR INDIA,10:00,20:25,10hr 25min,1 stop,7298
+167,AIR INDIA,07:00,20:25,13hr 25min,1 stop,7298
+168,AIR INDIA,10:00,14:00,28hr,1 stop,7298
+169,VISTARA,20:50,23:20,2hr 30min,non-stop,7403
+170,INDIGO,18:55,21:50,2hr 55min,non-stop,7498
+171,INDIGO,08:00,11:00,3hr,non-stop,7498
+172,AIR INDIA,07:00,14:00,7hr,1 stop,7519
+173,INDIGO,22:55,01:40,2hr 45min,non-stop,5341
+174,SPICEJET,18:30,21:15,2hr 45min,non-stop,7707
+175,GO FIRST,22:45,07:45,9hr,1 stop,7880
+176,AIR INDIA,08:00,18:25,10hr 25min,1 stop,7900
+177,AIR INDIA,08:00,20:25,12hr 25min,1 stop,7900
+178,AIR INDIA,22:30,20:25,21hr 55min,1 stop,7900
+179,AIR INDIA,22:30,14:00,15hr 30min,1 stop,7981
+180,AIR INDIA,17:40,14:00,20hr 20min,1 stop,7981
+181,AIR INDIA,14:00,14:00,24hr,1 stop,7981
+182,AIRASIA INDIA,06:55,12:25,5hr 30min,1 stop,8048
+183,INDIGO,13:30,20:35,7hr 5min,1 stop,8128
+184,AIR INDIA,08:00,14:00,6hr,1 stop,8201
+185,GO FIRST,14:10,01:20,11hr 10min,1 stop,8229
+186,AIR INDIA,13:30,16:20,2hr 50min,non-stop,8233
+187,AIR INDIA,06:10,09:00,2hr 50min,non-stop,8233
+188,AIR INDIA,17:15,20:15,3hr,non-stop,8233
+189,INDIGO,22:55,01:40,2hr 45min,non-stop,5341
+190,VISTARA,14:10,16:45,2hr 35min,non-stop,8401
+191,INDIGO,17:25,20:00,2hr 35min,non-stop,8439
+192,AIR INDIA,13:05,20:25,31hr 20min,2 stops,8506
+193,AIRASIA INDIA,15:45,20:45,5hr,1 stop,8569
+194,AIR INDIA,12:55,20:25,31hr 30min,2 stops,8579
+195,AIR INDIA,20:00,20:25,24hr 25min,1 stop,8792
+196,AIR INDIA,20:00,14:00,18hr,1 stop,8873
+197,GO FIRST,16:50,22:10,5hr 20min,1 stop,8916
+198,GO FIRST,18:50,01:20,6hr 30min,1 stop,8916
+199,GO FIRST,11:05,22:10,11hr 5min,1 stop,8916
+200,GO FIRST,18:50,07:45,12hr 55min,1 stop,8916
+201,GO FIRST,14:10,07:35,17hr 25min,2 stops,8916
+202,AIR INDIA,16:00,20:25,28hr 25min,2 stops,8926
+203,AIR INDIA,22:30,08:40,10hr 10min,1 stop,9514
+204,AIR INDIA,17:40,08:40,15hr,1 stop,9514
