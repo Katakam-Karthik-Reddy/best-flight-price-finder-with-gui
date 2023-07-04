@@ -69,7 +69,3 @@ def getIxigoflights(fromplace, toplace, flights):
 
     time.sleep(10)
 
-
-
-#flights = []
-#getIxigoflights("bangalore", "delhi", flights)
