@@ -31,13 +31,12 @@ canvas.create_text(160,70,anchor="nw",text="Enter your starting point :",fill="#
 
 entry_1 = Entry(bd=0,bg="#D9D9D9",fg="#000716",highlightthickness=0)
 entry_1.place(x=420,y=70,width=217.0,height=31.0)
-#entry_1.insert(0,"bangalore")
 canvas.create_text(800,70,anchor="nw",text="Enter your end point :",fill="#000000",font=("Inter", 20 * -1))
 
 entry_2 = Entry(bd=0,bg="#D9D9D9",fg="#000716",highlightthickness=0)
 entry_2.place(x=1040,y=70,width=217.0,height=31.0)
 
-#entry_2.insert(0,"delhi")
+
 button_1 = Button(text="search",borderwidth=0,highlightthickness=0,command=lambda: buttonpush(),relief="flat")
 button_1.place(x=1400,y=70,width=210.0,height=40.0)
 
@@ -236,8 +235,6 @@ def createthridtable(flights):
     for index in range(len(flights)):
         table.insert(parent='',index='end',values=(flights[index].flightname, flights[index].starttime, flights[index].endtime, flights[index].totaljourneytime, flights[index].totalstops, flights[index].price))
         i = i+1
-    #for i in range(100):
-    #    table.insert(parent='', index='end', iid=f'{i}', values=('afd', 'jdkfaafa', 'vaevaef', 'veavea', 'veavae', 'vat'))
 
     table.place(x=85, y=587,width=586, height=437)
 
