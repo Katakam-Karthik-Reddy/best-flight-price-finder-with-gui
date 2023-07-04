@@ -1,6 +1,5 @@
 dic = {}
 
-#f = open('Airport_list.txt', 'r')
 
 def loadAirports():
         file = open('Airport_list.txt', 'r')
@@ -11,7 +10,6 @@ def loadAirports():
 
 
 
-#cityinput = input("Enter the city name: ")
 def getAirportCode(cityname):
     try:
         return dic[cityname]
